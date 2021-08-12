@@ -3,7 +3,7 @@
 DESCRIPTION:
 
 STELLAR is a creative and modern HTML template designed for agencies, studios or any creative profession. 
-Stellar is fully responsive and retina-ready. This template has animating stats section, stylish 
+Earthman is fully responsive and retina-ready. This template has animating stats section, stylish 
 portfolio section, built-in Mailchimp integration and much more. It is built with clean and organized 
 code making it very easy to customize.
 
